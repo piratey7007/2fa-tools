@@ -9,9 +9,9 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "create",
-      "title": "create",
-      "description": "",
+      "name": "app",
+      "title": "2FA Tools",
+      "description": "2FA Tools for my JSON file.",
       "mode": "view"
     }
   ],
